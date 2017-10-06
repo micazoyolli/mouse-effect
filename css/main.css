@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  list-style: none;
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+
+body {
+  background: url(../img/background.png);
+  margin: 0px;
+}
+
+.content-fluid {
+  height: auto;
+  margin: auto;
+	position: relative;
+	width: 100%;
+}
+
+.row {
+  clear: both;
+  display: table;
+  height:  auto;
+  margin: auto;
+	position: relative;
+	width: 100%;
+}
+
+/* Mouse Effect */
+#mouseEffect {
+  overflow: hidden;
+	position: relative;
+	width: 100%;
+}
+
+#mouseEffect figure {
+  left: 0;
+	position: absolute;
+	top: 0;
+}
