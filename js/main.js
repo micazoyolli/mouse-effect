@@ -1,10 +1,10 @@
 // Properties
 var p = {
   figures: document.querySelectorAll('#mouseEffect figure'),
-  horizontal: false,
+  horizontal: true,
   mouseX: 0,
   mouseY: 0,
-  vertical: false,
+  vertical: true,
   zone: document.querySelector('#mouseEffect')
 };
 
