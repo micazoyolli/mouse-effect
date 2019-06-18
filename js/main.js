@@ -15,7 +15,8 @@ var m = {
 
     // Show images in tag figure
     for (var i = 0; i < p.figures.length; i++) {
-      p.figures[i].innerHTML = '<img src="img/mouse/level0' + i + '.png">';
+      p.figures[i].innerHTML = '<img src="./assets/mouse/level0' + i +
+        '.png">';
 
       p.figures[i].style.zIndex = -i;
     }

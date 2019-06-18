@@ -1,7 +1,7 @@
 # Mouse Effect JS
 Imágenes que se mueven con el movimiento del mouse.
 
-![Mouse Effect JS](https://github.com/micazoyolli/mouse-effect/blob/master/img/screenshot.png)
+![Mouse Effect JS](https://github.com/micazoyolli/mouse-effect/blob/master/assets/screenshot.png)
 
 ## Demo
 [Mouse Effect JS Demo](https://micazoyolli.github.io/mouse-effect/)
